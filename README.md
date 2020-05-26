@@ -1,5 +1,5 @@
 # RAID1MissingSuperblock
-Instructions to recover RAID 1 array from the missing superblock error
+Instructions to recover RAID-1 array from the missing superblock error
 
 **CAUTION Please ensure you have additional backup of your data prior to continuing the recovery**
 
